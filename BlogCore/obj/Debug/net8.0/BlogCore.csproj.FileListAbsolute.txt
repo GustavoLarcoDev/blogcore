@@ -276,3 +276,4 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogC
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Models.pdb
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.sourcelink.json
