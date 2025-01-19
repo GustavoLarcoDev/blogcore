@@ -2469,8 +2469,8 @@
       ]
     },
     {
-      "Route": "js/categoria.dkbeu83pq3.js",
-      "AssetFile": "js/categoria.js",
+      "Route": "js/articulo.eq0lafke9i.js",
+      "AssetFile": "js/articulo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2483,7 +2483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2119"
+          "Value": "2897"
         },
         {
           "Name": "Content-Type",
@@ -2491,25 +2491,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=\""
+          "Value": "\"CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 02:07:49 GMT"
+          "Value": "Sun, 19 Jan 2025 17:40:05 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dkbeu83pq3"
+          "Value": "eq0lafke9i"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw="
+          "Value": "sha256-CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w="
         },
         {
           "Name": "label",
-          "Value": "js/categoria.js"
+          "Value": "js/articulo.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/articulo.js",
+      "AssetFile": "js/articulo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 17:40:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w="
         }
       ]
     },
@@ -2528,7 +2565,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2119"
+          "Value": "2838"
         },
         {
           "Name": "Content-Type",
@@ -2536,17 +2573,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=\""
+          "Value": "\"WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 02:07:49 GMT"
+          "Value": "Sun, 19 Jan 2025 04:07:12 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw="
+          "Value": "sha256-WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.pc1qxgnof6.js",
+      "AssetFile": "js/categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 04:07:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pc1qxgnof6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38="
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
         }
       ]
     },

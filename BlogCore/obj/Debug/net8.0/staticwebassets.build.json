@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "geSjozEGIjtGRfMhZN3rGlfZsOeEidb3zCFIlc9D2ks=",
+  "Hash": "fOhlMm1FeD+acA/X+PB10h0aQMuriXH5P8xBZCNCB9c=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1361,6 +1361,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/articulo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eq0lafke9i",
+      "Integrity": "CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\articulo.js"
+    },
+    {
       "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1375,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dkbeu83pq3",
-      "Integrity": "81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=",
+      "Fingerprint": "pc1qxgnof6",
+      "Integrity": "WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
@@ -5171,8 +5192,8 @@
       ]
     },
     {
-      "Route": "js/categoria.dkbeu83pq3.js",
-      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Route": "js/articulo.eq0lafke9i.js",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5181,7 +5202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2119"
+          "Value": "2897"
         },
         {
           "Name": "Content-Type",
@@ -5189,11 +5210,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=\""
+          "Value": "\"CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 02:07:49 GMT"
+          "Value": "Sun, 19 Jan 2025 17:40:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5203,15 +5224,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dkbeu83pq3"
+          "Value": "eq0lafke9i"
         },
         {
           "Name": "label",
-          "Value": "js/categoria.js"
+          "Value": "js/articulo.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw="
+          "Value": "sha256-CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w="
+        }
+      ]
+    },
+    {
+      "Route": "js/articulo.js",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 17:40:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmM7dP6Lko7tEwwKmZ4VvUbKOVMy3GYyYSFbFhbru0w="
         }
       ]
     },
@@ -5226,7 +5284,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2119"
+          "Value": "2838"
         },
         {
           "Name": "Content-Type",
@@ -5234,11 +5292,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=\""
+          "Value": "\"WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 02:07:49 GMT"
+          "Value": "Sun, 19 Jan 2025 04:07:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5248,7 +5306,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw="
+          "Value": "sha256-WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.pc1qxgnof6.js",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 04:07:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pc1qxgnof6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfphuatQ1hIu4ux07UsdnnHugY4GoaXoS1Bj8rbyG38="
         }
       ]
     },
