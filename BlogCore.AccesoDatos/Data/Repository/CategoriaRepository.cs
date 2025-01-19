@@ -22,7 +22,7 @@ namespace BlogCore.AccesoDatos.Data.Repository
             objDesdeDb.Nombre = categoria.Nombre;
             objDesdeDb.Orden = categoria.Orden;
 
-            _db.SaveChanges();
+            //_db.SaveChanges();
             
             
         }
