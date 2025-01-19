@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "goW9dJQiVWcN/dM84HZ0Hbe26IdeQNjgUPw8c7qBLRk=",
+  "Hash": "geSjozEGIjtGRfMhZN3rGlfZsOeEidb3zCFIlc9D2ks=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "of1k7aotbz",
-      "Integrity": "vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=",
+      "Fingerprint": "dkbeu83pq3",
+      "Integrity": "81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
@@ -2645,7 +2645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 15:28:08 GMT"
+          "Value": "Sun, 19 Jan 2025 02:24:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2682,7 +2682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 15:28:08 GMT"
+          "Value": "Sun, 19 Jan 2025 02:24:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2727,7 +2727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 15:28:08 GMT"
+          "Value": "Sun, 19 Jan 2025 02:24:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,7 +2772,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 15:28:08 GMT"
+          "Value": "Sun, 19 Jan 2025 02:24:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5171,6 +5171,51 @@
       ]
     },
     {
+      "Route": "js/categoria.dkbeu83pq3.js",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 02:07:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dkbeu83pq3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw="
+        }
+      ]
+    },
+    {
       "Route": "js/categoria.js",
       "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "Selectors": [],
@@ -5181,7 +5226,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2111"
+          "Value": "2119"
         },
         {
           "Name": "Content-Type",
@@ -5189,11 +5234,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=\""
+          "Value": "\"81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 01:23:48 GMT"
+          "Value": "Sun, 19 Jan 2025 02:07:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5203,52 +5248,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec="
-        }
-      ]
-    },
-    {
-      "Route": "js/categoria.of1k7aotbz.js",
-      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 01:23:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "of1k7aotbz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/categoria.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec="
+          "Value": "sha256-81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw="
         }
       ]
     },

@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>of1k7aotbz</Fingerprint>
-      <Integrity>vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=</Integrity>
+      <Fingerprint>dkbeu83pq3</Fingerprint>
+      <Integrity>81/oTR5Vs4rio6i4yvjw97KoUnqHeIRleUp1h6ocJUw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\categoria.js'))</OriginalItemSpec>
