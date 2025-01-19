@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q621N4m4BZCuv/U1lq+508mkYoBX9tjDdUd7R5Za2cI=",
+  "Hash": "goW9dJQiVWcN/dM84HZ0Hbe26IdeQNjgUPw8c7qBLRk=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/categoria#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "of1k7aotbz",
+      "Integrity": "vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
@@ -5146,6 +5167,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.js",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 01:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.of1k7aotbz.js",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 01:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "of1k7aotbz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vCwWP2wWDnCOXW8ZJLpqVrpqmA5AotV9FN8l0j6c+Ec="
         }
       ]
     },
