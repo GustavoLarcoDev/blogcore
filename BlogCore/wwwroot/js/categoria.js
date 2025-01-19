@@ -56,3 +56,28 @@ function cargarDatatable() {
         "width": "100%"
     });
 }
+function Delete(url) {
+    swal({
+        title: "Esta segurop de borrar?",
+        text: "Este contenido no se puede recuperar!",
+        type: "Warning",
+        showCancelButton: true,
+        confirmButtonColor: "#DD6B55",
+        confirmButtonText: "Si, borrar!",
+        closeOnconfirm: true
+    }, function () {
+        $.ajax({
+            type: 'DELETE',
+            url: url,
+            success: function (data) {
+                if (data.success) {
+                    toastr.success(data.message);
+                    dataTable.ajax.reload();
+                }
+                else {
+                    toastr.error(data.message);
+                }
+            }
+        });
+    });
+}
