@@ -14,9 +14,9 @@ function cargarDatatable() {
         "columns": [
             { "data": "id", "width": "5%" },
             { "data": "nombre", "width": "20%" },
-            { "data": "fechacreacion", "width": "10%" },
-            { "data": "categiriaId", "width": "5%" },
-            {
+            { "data": "categoria.nombre", "width": "20%" },
+            { "data": "fechaCreacion", "width": "30%" },
+                        {
                 "data": "id",
                 "render": function (data) {
                     return `<div class="text-center">
@@ -29,7 +29,7 @@ function cargarDatatable() {
                             </a>
                           </div>
                             `;
-                }, "width": "40%"
+                }, "width": "30%"
 
             },
 
