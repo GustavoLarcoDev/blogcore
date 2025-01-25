@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3ihikh1twm</Fingerprint>
-      <Integrity>G/FWG4/tRzMX+WT0qCy35Sv7KCP3X6dovw4+hAyMMCw=</Integrity>
+      <Fingerprint>5hy9zf8n2a</Fingerprint>
+      <Integrity>Nwqe63XUe42+WyvR/Z5Z32W9Bn9o3dkhyKxraN/V2DY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\articulo.js'))</OriginalItemSpec>
