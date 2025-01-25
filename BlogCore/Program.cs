@@ -3,6 +3,8 @@ using BlogCore.AccesoDatos.Data.Repository;
 using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using BlogCore.Models;
+using BlogCore.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,24 +1,29 @@
-﻿using AspNetCoreGeneratedDocument;
-using BlogCore.AccesoDatos.Data.Repository.IRepository;
+﻿using BlogCore.AccesoDatos.Data.Repository.IRepository;
+using BlogCore.Data;
 using BlogCore.Models;
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlogCore.Areas.Admin.Controllers
 {
+  
     [Area("Admin")]
     public class CategoriasController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
 
-        public CategoriasController(IContenedorTrabajo contenedorTrabjo)
+        public CategoriasController(IContenedorTrabajo contenedorTrabajo)
         {
-            _contenedorTrabajo = contenedorTrabjo;
+            _contenedorTrabajo = contenedorTrabajo;
         }
+
         [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
+
+        //[AllowAnonymous]
         [HttpGet]
         public IActionResult Create()
         {
@@ -31,12 +36,12 @@ namespace BlogCore.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-
                 //Logica para guardar en BD
                 _contenedorTrabajo.Categoria.Add(categoria);
                 _contenedorTrabajo.Save();
-                return RedirectToAction("Index");
+                return RedirectToAction(nameof(Index));
             }
+
             return View(categoria);
         }
 
@@ -49,6 +54,7 @@ namespace BlogCore.Areas.Admin.Controllers
             {
                 return NotFound();
             }
+
             return View(categoria);
         }
 
@@ -58,12 +64,12 @@ namespace BlogCore.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-
                 //Logica para actualizar en BD
                 _contenedorTrabajo.Categoria.Update(categoria);
                 _contenedorTrabajo.Save();
-                return RedirectToAction("Index");
+                return RedirectToAction(nameof(Index));
             }
+
             return View(categoria);
         }
 
@@ -76,20 +82,21 @@ namespace BlogCore.Areas.Admin.Controllers
             return Json(new { data = _contenedorTrabajo.Categoria.GetAll() });
         }
 
+
         [HttpDelete]
         public IActionResult Delete(int id)
         {
             var objFromDb = _contenedorTrabajo.Categoria.Get(id);
-            if(objFromDb == null)
+            if (objFromDb == null)
             {
-                return Json(new { succes = false, message = "Error boorando categoria" });
+                return Json(new { success = false, message = "Error borrando categoría" });
             }
+
             _contenedorTrabajo.Categoria.Remove(objFromDb);
             _contenedorTrabajo.Save();
-            return Json(new { success = true, message = "Categoria borrada correctamente" });
-
+            return Json(new { success = true, message = "Categoría Borrada Correctamente" });
         }
-        #endregion
 
+        #endregion
     }
 }
