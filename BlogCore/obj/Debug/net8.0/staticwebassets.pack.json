@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
-      "PackagePath": "staticwebassets\\js\\articulo.js"
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\01cca930-013d-4e8f-baf9-560a20af7b97.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\01cca930-013d-4e8f-baf9-560a20af7b97.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
+      "PackagePath": "staticwebassets\\js\\articulos.js"
     },
     {
       "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",

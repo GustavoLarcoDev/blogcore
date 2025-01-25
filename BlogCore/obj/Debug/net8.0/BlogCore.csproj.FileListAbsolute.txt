@@ -123,7 +123,6 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogC
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.AssemblyInfoInputs.cache
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.AssemblyInfo.cs
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.csproj.CoreCompileInputs.cache
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.RazorAssemblyInfo.cache
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.RazorAssemblyInfo.cs
@@ -318,3 +317,4 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\runti
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\FluentAssertions.dll

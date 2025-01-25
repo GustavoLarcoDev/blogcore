@@ -1,8 +1,11 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\js\articulo.js
+wwwroot\imagenes\articulos\01cca930-013d-4e8f-baf9-560a20af7b97.jpg
+wwwroot\imagenes\articulos\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg
+wwwroot\js\articulos.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js
+wwwroot\js\slider.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

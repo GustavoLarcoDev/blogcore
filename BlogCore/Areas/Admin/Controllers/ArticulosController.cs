@@ -43,6 +43,10 @@ namespace BlogCore.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(ArticuloVM artiVM)
         {
+            ModelState.Remove("ListaCategorias");
+            ModelState.Remove("Articulo.Categoria");
+            ModelState.Remove("Articulo.UrlImagen");
+            ModelState.Remove("Articulo.FechaCreacion");
             if (ModelState.IsValid)
             {
                 string rutaPrincipal = _hostingEnvironment.WebRootPath;
@@ -100,6 +104,10 @@ namespace BlogCore.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(ArticuloVM artiVM)
         {
+            ModelState.Remove("ListaCategorias");
+            ModelState.Remove("Articulo.Categoria");
+            ModelState.Remove("Articulo.UrlImagen");
+            ModelState.Remove("Articulo.FechaCreacion");
             if (ModelState.IsValid)
             {
                 string rutaPrincipal = _hostingEnvironment.WebRootPath;
