@@ -15,14 +15,24 @@ function cargarDatatable() {
         "columns": [
             { "data": "id", "width": "5%" },
             { "data": "nombre", "width": "20%" },
-            { "data": "estado", "width": "15%" },
+            /*EMPIEZA EDICION ESTADO*/
+            {
+                "data": "estado",
+                "render": function (estadoActual) {
+                    if (estadoActual == true) {
+                        return "Activo"
+                    } else {
+                        return "Inactivo"
+                    }
+                }, "width": "15%"
+            },
+            /*CIERRA EDICION ESTADO*/
             {
                 "data": "urlImagen",
                 "render": function (imagen) {
                     return `<img src="../${imagen}" width="120">`
-                }
+                }, "width": "20%"
             },
-            
             {
                 "data": "id",
                 "render": function (data) {

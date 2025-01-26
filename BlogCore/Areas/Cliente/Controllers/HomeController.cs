@@ -1,5 +1,8 @@
 using System.Diagnostics;
+using BlogCore.AccesoDatos.Data.Repository.IRepository;
+using BlogCore.Areas.Admin.Controllers;
 using BlogCore.Models;
+using BlogCore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlogCore.Areas.Cliente.Controllers
@@ -7,16 +10,22 @@ namespace BlogCore.Areas.Cliente.Controllers
     [Area("Cliente")]
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IContenedorTrabajo _contenedorTrabajo;
+        public HomeController(IContenedorTrabajo contenedorTrabajo)
         {
-            _logger = logger;
+            _contenedorTrabajo = contenedorTrabajo;
         }
 
+        [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            HomeVM homeVM = new HomeVM()
+            {
+                Sliders = _contenedorTrabajo.Slider.GetAll(),
+                ListArticulos = _contenedorTrabajo.Articulo.GetAll()    
+
+            };
+            return View(homeVM);
         }
 
         public IActionResult Privacy()

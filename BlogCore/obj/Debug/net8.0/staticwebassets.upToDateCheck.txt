@@ -1,7 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\imagenes\articulos\01cca930-013d-4e8f-baf9-560a20af7b97.jpg
-wwwroot\imagenes\articulos\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg
+wwwroot\imagenes\articulos\883205e3-718a-4f1d-8b1d-316fe4310747.jpg
+wwwroot\imagenes\sliders\84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg
 wwwroot\js\articulos.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js

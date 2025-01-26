@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vw719OvkaHi+H+eogu6EjiDFsjGuELUpL5eGNjetThA=",
+  "Hash": "8OdabKboGeUNR4A+wF+/Bi/CN+3relKVlOhqE0ewZR0=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1424,12 +1424,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\01cca930-013d-4e8f-baf9-560a20af7b97.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg",
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\883205e3-718a-4f1d-8b1d-316fe4310747.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/articulos/1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/articulos/883205e3-718a-4f1d-8b1d-316fe4310747#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1438,11 +1438,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q2eqiacfe4",
-      "Integrity": "Pvz8vomDUiSKq+4ITM0KuVjM9r4uW8CvU4H4AJWEtdg=",
+      "Fingerprint": "fb9q06aewy",
+      "Integrity": "VVa3YkNrvnyBBj54roAPSepjVe/GeTG4gwGYCn3fDaY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\883205e3-718a-4f1d-8b1d-316fe4310747.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/84c26f6f-31f2-46f4-83aa-15914e6fc9e5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mwva036v2",
+      "Integrity": "I0+/FuG5NGuuc2VmJHr0All/+/+R9IqQ5JUagG+RIrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
@@ -1522,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b3q2c0t8va",
-      "Integrity": "abP8JLEiuNOK/YXaSiu5yROitxrtDEZ9g5hFIBiLR/8=",
+      "Fingerprint": "58ejhi3b7n",
+      "Integrity": "OwiyZ3FNEQvDV6KDR0kuH3KjwX4OdCaKJwgqXzX+c8Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\slider.js"
@@ -2849,7 +2870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 22:29:45 GMT"
+          "Value": "Sun, 26 Jan 2025 00:09:08 GMT"
         },
         {
           "Name": "Link",
@@ -2894,7 +2915,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 22:29:45 GMT"
+          "Value": "Sun, 26 Jan 2025 00:09:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2931,7 +2952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 22:29:45 GMT"
+          "Value": "Sun, 26 Jan 2025 00:09:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2980,7 +3001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 22:29:45 GMT"
+          "Value": "Sun, 26 Jan 2025 00:09:08 GMT"
         },
         {
           "Name": "Link",
@@ -5461,8 +5482,8 @@
       ]
     },
     {
-      "Route": "imagenes/articulos/1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg",
-      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg",
+      "Route": "imagenes/articulos/883205e3-718a-4f1d-8b1d-316fe4310747.fb9q06aewy.jpg",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\883205e3-718a-4f1d-8b1d-316fe4310747.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5471,7 +5492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "94952"
+          "Value": "179340"
         },
         {
           "Name": "Content-Type",
@@ -5479,48 +5500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Pvz8vomDUiSKq+4ITM0KuVjM9r4uW8CvU4H4AJWEtdg=\""
+          "Value": "\"VVa3YkNrvnyBBj54roAPSepjVe/GeTG4gwGYCn3fDaY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 05:09:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Pvz8vomDUiSKq+4ITM0KuVjM9r4uW8CvU4H4AJWEtdg="
-        }
-      ]
-    },
-    {
-      "Route": "imagenes/articulos/1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.q2eqiacfe4.jpg",
-      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "94952"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Pvz8vomDUiSKq+4ITM0KuVjM9r4uW8CvU4H4AJWEtdg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 05:09:47 GMT"
+          "Value": "Sun, 26 Jan 2025 14:37:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5530,15 +5514,134 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q2eqiacfe4"
+          "Value": "fb9q06aewy"
         },
         {
           "Name": "label",
-          "Value": "imagenes/articulos/1246e7d4-857c-4d32-b5ba-f8dbd2f33fb9.jpg"
+          "Value": "imagenes/articulos/883205e3-718a-4f1d-8b1d-316fe4310747.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Pvz8vomDUiSKq+4ITM0KuVjM9r4uW8CvU4H4AJWEtdg="
+          "Value": "sha256-VVa3YkNrvnyBBj54roAPSepjVe/GeTG4gwGYCn3fDaY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/articulos/883205e3-718a-4f1d-8b1d-316fe4310747.jpg",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\883205e3-718a-4f1d-8b1d-316fe4310747.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VVa3YkNrvnyBBj54roAPSepjVe/GeTG4gwGYCn3fDaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VVa3YkNrvnyBBj54roAPSepjVe/GeTG4gwGYCn3fDaY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/84c26f6f-31f2-46f4-83aa-15914e6fc9e5.5mwva036v2.jpg",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0+/FuG5NGuuc2VmJHr0All/+/+R9IqQ5JUagG+RIrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:13:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mwva036v2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0+/FuG5NGuuc2VmJHr0All/+/+R9IqQ5JUagG+RIrw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0+/FuG5NGuuc2VmJHr0All/+/+R9IqQ5JUagG+RIrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:13:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0+/FuG5NGuuc2VmJHr0All/+/+R9IqQ5JUagG+RIrw="
         }
       ]
     },
@@ -5789,7 +5892,7 @@
       ]
     },
     {
-      "Route": "js/slider.b3q2c0t8va.js",
+      "Route": "js/slider.58ejhi3b7n.js",
       "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5799,7 +5902,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3073"
+          "Value": "3443"
         },
         {
           "Name": "Content-Type",
@@ -5807,11 +5910,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"abP8JLEiuNOK/YXaSiu5yROitxrtDEZ9g5hFIBiLR/8=\""
+          "Value": "\"OwiyZ3FNEQvDV6KDR0kuH3KjwX4OdCaKJwgqXzX+c8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 22:16:43 GMT"
+          "Value": "Sun, 26 Jan 2025 00:07:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5821,7 +5924,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b3q2c0t8va"
+          "Value": "58ejhi3b7n"
         },
         {
           "Name": "label",
@@ -5829,7 +5932,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-abP8JLEiuNOK/YXaSiu5yROitxrtDEZ9g5hFIBiLR/8="
+          "Value": "sha256-OwiyZ3FNEQvDV6KDR0kuH3KjwX4OdCaKJwgqXzX+c8Q="
         }
       ]
     },
@@ -5844,7 +5947,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3073"
+          "Value": "3443"
         },
         {
           "Name": "Content-Type",
@@ -5852,11 +5955,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"abP8JLEiuNOK/YXaSiu5yROitxrtDEZ9g5hFIBiLR/8=\""
+          "Value": "\"OwiyZ3FNEQvDV6KDR0kuH3KjwX4OdCaKJwgqXzX+c8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 22:16:43 GMT"
+          "Value": "Sun, 26 Jan 2025 00:07:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5866,7 +5969,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-abP8JLEiuNOK/YXaSiu5yROitxrtDEZ9g5hFIBiLR/8="
+          "Value": "sha256-OwiyZ3FNEQvDV6KDR0kuH3KjwX4OdCaKJwgqXzX+c8Q="
         }
       ]
     },
