@@ -25,7 +25,15 @@ namespace BlogCore.Areas.Cliente.Controllers
                 ListArticulos = _contenedorTrabajo.Articulo.GetAll()    
 
             };
+
+            ViewBag.IsHome = true;
             return View(homeVM);
+        }
+        [HttpGet]
+        public IActionResult Detalle(int id)
+        {
+            var articuloDesdeBd = _contenedorTrabajo.Articulo.Get(id);
+            return View(articuloDesdeBd);
         }
 
         public IActionResult Privacy()

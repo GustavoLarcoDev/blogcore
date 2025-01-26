@@ -2,7 +2,11 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\imagenes\articulos\01cca930-013d-4e8f-baf9-560a20af7b97.jpg
 wwwroot\imagenes\articulos\883205e3-718a-4f1d-8b1d-316fe4310747.jpg
-wwwroot\imagenes\sliders\84c26f6f-31f2-46f4-83aa-15914e6fc9e5.jpg
+wwwroot\imagenes\sliders\609f83ec-534a-46e0-ba1c-7ee5c2295ffc.jpg
+wwwroot\imagenes\sliders\87c6f847-6374-4433-9bea-d038216ae4a8.jpg
+wwwroot\imagenes\sliders\8c50385b-41a4-48b2-8119-8ba0750b2636.jpg
+wwwroot\imagenes\sliders\8cc02bf8-b04b-4e80-a1d7-bd09b50e10ea.jpg
+wwwroot\imagenes\sliders\slide1.webp
 wwwroot\js\articulos.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js
