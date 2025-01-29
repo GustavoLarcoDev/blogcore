@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
+
 namespace BlogCore.Areas.Admin.Controllers
 {
     //[Authorize(Roles = "Administrador")]
@@ -20,12 +21,12 @@ namespace BlogCore.Areas.Admin.Controllers
         public IActionResult Index()
         {
             //Opción 1: Obtener todos los usuario
-            return View(_contenedorTrabajo.Usuario.GetAll());
+            //return View(_contenedorTrabajo.Usuario.GetAll());
 
             //Opción 2: Obtener todos los usuarios menos el que esté logueado, para no bloquearse el mismo
-            //var claimsIdentity = (ClaimsIdentity)this.User.Identity;
-            //var usuarioActual = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
-            //return View(_contenedorTrabajo.Usuario.GetAll(u => u.Id != usuarioActual.Value));
+            var claimsIdentity = (ClaimsIdentity)this.User.Identity;
+            var usuarioActual = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            return View(_contenedorTrabajo.Usuario.GetAll(u => u.Id != usuarioActual.Value));
         }
 
         [HttpGet]
