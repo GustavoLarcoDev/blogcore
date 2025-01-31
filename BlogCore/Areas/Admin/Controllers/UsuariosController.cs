@@ -6,7 +6,7 @@ using System.Security.Claims;
 
 namespace BlogCore.Areas.Admin.Controllers
 {
-    //[Authorize(Roles = "Administrador")]
+    [Authorize(Roles = "Administrador")]
     [Area("Admin")]
     public class UsuariosController : Controller
     {
