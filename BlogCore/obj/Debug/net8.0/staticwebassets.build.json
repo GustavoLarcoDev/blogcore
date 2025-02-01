@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y50+NYjG9jL4EZ2jHJmoS38fFYySST88Hbp0j/soKZ0=",
+  "Hash": "w9UgqrXSuksvRFrmnnizD2Gb1mofoYiok5yfiVOB0xA=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nhiv9j6xsn",
-      "Integrity": "W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk=",
+      "Fingerprint": "mpsgvcxiel",
+      "Integrity": "pktmTQjnjWzKgFpSQbh84QniWi1OcuvI3TZJoNQhe24=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3374,7 +3374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 20:19:31 GMT"
+          "Value": "Sat, 01 Feb 2025 22:28:10 GMT"
         },
         {
           "Name": "Link",
@@ -3419,7 +3419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 20:19:31 GMT"
+          "Value": "Sat, 01 Feb 2025 22:28:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3456,7 +3456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 20:19:31 GMT"
+          "Value": "Sat, 01 Feb 2025 22:28:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3505,7 +3505,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 20:19:31 GMT"
+          "Value": "Sat, 01 Feb 2025 22:28:10 GMT"
         },
         {
           "Name": "Link",
@@ -3530,7 +3530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "646"
+          "Value": "1094"
         },
         {
           "Name": "Content-Type",
@@ -3538,11 +3538,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk=\""
+          "Value": "\"pktmTQjnjWzKgFpSQbh84QniWi1OcuvI3TZJoNQhe24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 03:14:48 GMT"
+          "Value": "Sat, 01 Feb 2025 04:48:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3552,12 +3552,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk="
+          "Value": "sha256-pktmTQjnjWzKgFpSQbh84QniWi1OcuvI3TZJoNQhe24="
         }
       ]
     },
     {
-      "Route": "css/site.nhiv9j6xsn.css",
+      "Route": "css/site.mpsgvcxiel.css",
       "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3567,7 +3567,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "646"
+          "Value": "1094"
         },
         {
           "Name": "Content-Type",
@@ -3575,11 +3575,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk=\""
+          "Value": "\"pktmTQjnjWzKgFpSQbh84QniWi1OcuvI3TZJoNQhe24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 03:14:48 GMT"
+          "Value": "Sat, 01 Feb 2025 04:48:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3589,7 +3589,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nhiv9j6xsn"
+          "Value": "mpsgvcxiel"
         },
         {
           "Name": "label",
@@ -3597,7 +3597,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk="
+          "Value": "sha256-pktmTQjnjWzKgFpSQbh84QniWi1OcuvI3TZJoNQhe24="
         }
       ]
     },
