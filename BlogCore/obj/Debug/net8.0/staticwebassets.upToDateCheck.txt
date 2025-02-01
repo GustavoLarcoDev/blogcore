@@ -17,6 +17,12 @@ wwwroot\imagenes\articulos\c74c262c-834f-4d3c-9973-8d0446edd87c.jpg
 wwwroot\imagenes\articulos\d76372de-d63a-42ba-a623-33b22b93729a.jpg
 wwwroot\imagenes\articulos\e3c9288e-2526-4a5d-a75d-a49e8bceb384.jpg
 wwwroot\imagenes\articulos\fb13c4e4-a11e-4847-8137-e8dc6154e137.jpg
+wwwroot\imagenes\blogger.png
+wwwroot\imagenes\bloquear.png
+wwwroot\imagenes\favicon.ico
+wwwroot\imagenes\favicon-32x32.png
+wwwroot\imagenes\fondo-banner.jpg
+wwwroot\imagenes\no-autorizado.png
 wwwroot\imagenes\sliders\475d22b3-aedd-4a43-afff-91c18da106fb.jpg
 wwwroot\imagenes\sliders\94f2d394-75c7-47d9-a5bb-f6e0c598ef9c.jpg
 wwwroot\imagenes\sliders\9e9b4453-3f8f-4a74-9300-a254b6490988.jpg

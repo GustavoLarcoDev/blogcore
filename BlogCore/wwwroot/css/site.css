@@ -17,9 +17,23 @@ html {
   min-height: 100%;
 }
 
-body {
+/*body {
   margin-bottom: 60px;
-}
-::placeholder{
+}*/
+.busqueda ::placeholder{
     color: #101010 !important;
+}
+
+.navbar{
+    padding: 10px 0;
+}
+
+.busqueda input-group-append{
+    display: flex;
+    align-items: center;
+}
+
+.busqueda .btn-secondary {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }

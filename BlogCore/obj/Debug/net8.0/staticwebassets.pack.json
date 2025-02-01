@@ -81,6 +81,30 @@
       "PackagePath": "staticwebassets\\imagenes\\articulos\\fb13c4e4-a11e-4847-8137-e8dc6154e137.jpg"
     },
     {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\blogger.png",
+      "PackagePath": "staticwebassets\\imagenes\\blogger.png"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\bloquear.png",
+      "PackagePath": "staticwebassets\\imagenes\\bloquear.png"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\imagenes\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon.ico",
+      "PackagePath": "staticwebassets\\imagenes\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\fondo-banner.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\fondo-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\no-autorizado.png",
+      "PackagePath": "staticwebassets\\imagenes\\no-autorizado.png"
+    },
+    {
       "Id": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\475d22b3-aedd-4a43-afff-91c18da106fb.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\475d22b3-aedd-4a43-afff-91c18da106fb.jpg"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3TONDJyDk64gb5eB83+InbYGN832bP6DnegjRfRuiHA=",
+  "Hash": "Y50+NYjG9jL4EZ2jHJmoS38fFYySST88Hbp0j/soKZ0=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qh36mpdv3z",
-      "Integrity": "LsH+APkjjY10M1zmjpeGBzEuJ81QPaYJGHOSo5tPccg=",
+      "Fingerprint": "nhiv9j6xsn",
+      "Integrity": "W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "1tzf0hiif6",
+      "Integrity": "+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -1758,6 +1758,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\fb13c4e4-a11e-4847-8137-e8dc6154e137.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\blogger.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/blogger#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lpkvfoiavr",
+      "Integrity": "ZxZRmrBslQC64tC+ufXW/vKdBLdwzggNIN0R8+snna8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\blogger.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\bloquear.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/bloquear#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m28031nqg2",
+      "Integrity": "3p+sNk9b5HUoJRL5rgj3IeH0Yo1YHCV54cKdS0lKI5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\bloquear.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon.ico",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1tzf0hiif6",
+      "Integrity": "+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon-32x32.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/favicon-32x32#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdvgp7otys",
+      "Integrity": "HwiQEiZvNcbHTYKhjBhtMc8rF3sh6VSEOFC24U0NyPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\favicon-32x32.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\fondo-banner.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/fondo-banner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "anvql7gc88",
+      "Integrity": "SixEmIQNuWaaMzOwIl+bFurcAfu4qx3Y0ZnBFUG9o6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\fondo-banner.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\no-autorizado.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/no-autorizado#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdbw9zkjxa",
+      "Integrity": "oRa3ft4EDmB0VD+zEvROOKu2DeSwlByDn9McJYNO8sA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\no-autorizado.png"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\475d22b3-aedd-4a43-afff-91c18da106fb.jpg",
@@ -3404,7 +3530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "413"
+          "Value": "646"
         },
         {
           "Name": "Content-Type",
@@ -3412,11 +3538,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LsH+APkjjY10M1zmjpeGBzEuJ81QPaYJGHOSo5tPccg=\""
+          "Value": "\"W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:27:14 GMT"
+          "Value": "Sat, 01 Feb 2025 03:14:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3426,12 +3552,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LsH+APkjjY10M1zmjpeGBzEuJ81QPaYJGHOSo5tPccg="
+          "Value": "sha256-W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk="
         }
       ]
     },
     {
-      "Route": "css/site.qh36mpdv3z.css",
+      "Route": "css/site.nhiv9j6xsn.css",
       "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3441,7 +3567,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "413"
+          "Value": "646"
         },
         {
           "Name": "Content-Type",
@@ -3449,11 +3575,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LsH+APkjjY10M1zmjpeGBzEuJ81QPaYJGHOSo5tPccg=\""
+          "Value": "\"W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Jan 2025 03:27:14 GMT"
+          "Value": "Sat, 01 Feb 2025 03:14:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3463,7 +3589,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qh36mpdv3z"
+          "Value": "nhiv9j6xsn"
         },
         {
           "Name": "label",
@@ -3471,12 +3597,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LsH+APkjjY10M1zmjpeGBzEuJ81QPaYJGHOSo5tPccg="
+          "Value": "sha256-W+Rv8UlZfOoLFfbY1JF5ZJOiqfumk+ERt0CilfW+nEk="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.1tzf0hiif6.ico",
       "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3486,7 +3612,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3494,11 +3620,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 03:49:25 GMT"
+          "Value": "Sat, 01 Feb 2025 09:58:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3508,7 +3634,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "1tzf0hiif6"
         },
         {
           "Name": "label",
@@ -3516,7 +3642,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU="
         }
       ]
     },
@@ -3531,7 +3657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3539,11 +3665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 03:49:25 GMT"
+          "Value": "Sat, 01 Feb 2025 09:58:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3553,7 +3679,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU="
         }
       ]
     },
@@ -7168,6 +7294,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-8eBQPa0mnTcO4NlMusgsrcS1EPqudew3uGsQg930zAM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/blogger.lpkvfoiavr.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\blogger.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxZRmrBslQC64tC+ufXW/vKdBLdwzggNIN0R8+snna8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 02:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lpkvfoiavr"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/blogger.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxZRmrBslQC64tC+ufXW/vKdBLdwzggNIN0R8+snna8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/blogger.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\blogger.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxZRmrBslQC64tC+ufXW/vKdBLdwzggNIN0R8+snna8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 02:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxZRmrBslQC64tC+ufXW/vKdBLdwzggNIN0R8+snna8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/bloquear.m28031nqg2.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\bloquear.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p+sNk9b5HUoJRL5rgj3IeH0Yo1YHCV54cKdS0lKI5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 19:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m28031nqg2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/bloquear.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p+sNk9b5HUoJRL5rgj3IeH0Yo1YHCV54cKdS0lKI5o="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/bloquear.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\bloquear.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p+sNk9b5HUoJRL5rgj3IeH0Yo1YHCV54cKdS0lKI5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 19:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p+sNk9b5HUoJRL5rgj3IeH0Yo1YHCV54cKdS0lKI5o="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/favicon.1tzf0hiif6.ico",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 09:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1tzf0hiif6"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/favicon.ico",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 09:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xg5wqhAzk20TdAg0AUTrkRcKBqBcY1GABoB5BgFaXU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/favicon-32x32.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HwiQEiZvNcbHTYKhjBhtMc8rF3sh6VSEOFC24U0NyPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 09:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HwiQEiZvNcbHTYKhjBhtMc8rF3sh6VSEOFC24U0NyPY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/favicon-32x32.tdvgp7otys.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HwiQEiZvNcbHTYKhjBhtMc8rF3sh6VSEOFC24U0NyPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 09:58:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdvgp7otys"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/favicon-32x32.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HwiQEiZvNcbHTYKhjBhtMc8rF3sh6VSEOFC24U0NyPY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/fondo-banner.anvql7gc88.jpg",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\fondo-banner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1488115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SixEmIQNuWaaMzOwIl+bFurcAfu4qx3Y0ZnBFUG9o6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 19:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "anvql7gc88"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/fondo-banner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SixEmIQNuWaaMzOwIl+bFurcAfu4qx3Y0ZnBFUG9o6A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/fondo-banner.jpg",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\fondo-banner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1488115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SixEmIQNuWaaMzOwIl+bFurcAfu4qx3Y0ZnBFUG9o6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 19:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SixEmIQNuWaaMzOwIl+bFurcAfu4qx3Y0ZnBFUG9o6A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/no-autorizado.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\no-autorizado.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oRa3ft4EDmB0VD+zEvROOKu2DeSwlByDn9McJYNO8sA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 19:22:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oRa3ft4EDmB0VD+zEvROOKu2DeSwlByDn9McJYNO8sA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/no-autorizado.tdbw9zkjxa.png",
+      "AssetFile": "C:\\Users\\Gustavo\\Desktop\\Udemy Projects\\BlogCore\\BlogCore\\wwwroot\\imagenes\\no-autorizado.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oRa3ft4EDmB0VD+zEvROOKu2DeSwlByDn9McJYNO8sA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Mar 2024 19:22:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdbw9zkjxa"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/no-autorizado.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oRa3ft4EDmB0VD+zEvROOKu2DeSwlByDn9McJYNO8sA="
         }
       ]
     },
