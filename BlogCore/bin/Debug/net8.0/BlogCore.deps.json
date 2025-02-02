@@ -2574,7 +2574,6 @@
           "BlogCore.Models": "1.0.0",
           "BlogCore.Utilidades": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11",
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.3.0",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11"
         },

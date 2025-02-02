@@ -1,4 +1,5 @@
 
+using BlogCore.AccesoDatos.Data;
 using BlogCore.AccesoDatos.Data.Repository;
 using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using BlogCore.Data;

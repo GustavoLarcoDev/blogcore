@@ -1,3 +1,12 @@
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.sourcelink.json
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\appsettings.json
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.staticwebassets.runtime.json
@@ -48,6 +57,7 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Micro
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
@@ -58,6 +68,7 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Micro
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -96,6 +107,7 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\NuGet
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -290,16 +302,6 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogC
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Models.pdb
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.pdb
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.csproj.AssemblyReference.cache
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.AssemblyInfoInputs.cache
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.AssemblyInfo.cs
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.csproj.CoreCompileInputs.cache
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.RazorAssemblyInfo.cache
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.RazorAssemblyInfo.cs
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.sourcelink.json
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\scopedcss\bundle\BlogCore.styles.css
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\scopedcss\projectbundle\BlogCore.bundle.scp.css
@@ -319,6 +321,3 @@ C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\refin
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.pdb
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.genruntimeconfig.cache
 C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\obj\Debug\net8.0\ref\BlogCore.dll
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\Gustavo\Desktop\Udemy Projects\BlogCore\BlogCore\bin\Debug\net8.0\System.ClientModel.dll
